@@ -1,0 +1,23 @@
+{
+  "name": "aaa-test-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yosefgeda/AAA-test-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yosefgeda/AAA-test-ex/issues"
+  },
+  "homepage": "https://github.com/Yosefgeda/AAA-test-ex#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
